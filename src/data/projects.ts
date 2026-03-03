@@ -13,8 +13,8 @@ export const projects: Project[] = [
     description:
       "An AI-powered contextual search and intelligence platform that leverages LLM applications for smart content understanding and retrieval.",
     tech: ["Next.js", "React", "Python", "FastAPI", "NLP"],
-    github: "https://github.com/sudipta57",
-    live: "https://contextdhch.vercel.app/",
+    github: "https://github.com/sudipta57/Context-AI",
+    live: "https://context-ai-nine.vercel.app/",
     featured: true,
   },
   {
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     description:
       "A modern currency exchange and financial transaction platform with real-time rates, secure transfers, and intuitive dashboard.",
     tech: ["Next.js", "React", "Node.js", "MongoDB", "Redux"],
-    github: "https://github.com/sudipta57",
+    github: "https://github.com/sudipta57/cashswap",
     live: "https://cashswap.vercel.app/",
     featured: true,
   },
